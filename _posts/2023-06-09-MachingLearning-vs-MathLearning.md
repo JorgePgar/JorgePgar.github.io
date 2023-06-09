@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-## About the great world of math-learning
+## MachingLearning vs MathLearning
 
 This blog is intended to be a storm-thought about some little regions of the math world that I have atempted to understand. For example, there are multiple equivalent formulations of the spectral theorem:
 
