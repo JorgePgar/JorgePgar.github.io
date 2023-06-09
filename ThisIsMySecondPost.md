@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## About the great world of math-learning
 
