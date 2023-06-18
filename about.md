@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I'm a math PhD student from Madrid. I'm trying to host a personal webpage, together with a blog. I'll see if everything works out well :)
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I also enjoy playing chess and playing guitar. (Strange that in English both uses the same verb!) I should add some photos of me in a game maybe...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jorge[dot]perez[at]icmat[dot]es](mailto:email@domain.com)
