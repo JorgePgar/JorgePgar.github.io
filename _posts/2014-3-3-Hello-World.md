@@ -2,7 +2,7 @@
 layout: post
 title: You're up and running!
 published: true
-category: First Attempts!
+categories: LeearningJekyll
 ---
 ## MachingLearning vs MathLearning
 
