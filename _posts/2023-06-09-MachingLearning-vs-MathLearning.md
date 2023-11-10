@@ -3,6 +3,7 @@ layout: post
 title: Is Maching Learning a Learning Style?
 published: true
 categories: LeearningJekyll
+permalink: /:categories/:title
 ---
 ## MachingLearning vs MathLearning
 
